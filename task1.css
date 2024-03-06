@@ -1,0 +1,32 @@
+ body{
+    padding: 0%;
+    margin: 0%;
+    background-color:white;
+ }
+ .first{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+ }
+ .second{
+    display: flex;
+    flex-direction: row;
+ }
+ .third{
+    display: flex;
+    flex-direction: row;
+ }
+ .fourth{
+    display: flex;
+    flex-direction: row;
+ }
+ .main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+ }
